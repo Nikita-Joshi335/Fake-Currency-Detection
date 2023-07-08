@@ -16,7 +16,7 @@ This project does not require any specific setup, except all the libraries menti
 **Submission Files**
 Following files are included as part of submission:
 
-README.md
-Report
-Fake Currency Detection.ipynb : an ipython notebook as part of source code
-banknote_authentication.csv: the dataset used in the project
+README.md,
+Report,
+Fake Currency Detection.ipynb : an ipython notebook as part of source code,
+banknote_authentication.csv: the dataset used in the project.
